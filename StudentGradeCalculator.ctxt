@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=StudentGradeCalculator
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=average
+comment2.target=char\ calculateGrade(double)
+comment3.params=grade
+comment3.target=java.lang.String\ generateRemark(char)
+comment4.params=studentName\ subjects\ marks\ totalMarks\ average\ grade\ remark
+comment4.target=void\ printReport(java.lang.String,\ java.lang.String[],\ int[],\ int,\ double,\ char,\ java.lang.String)
+numComments=5
